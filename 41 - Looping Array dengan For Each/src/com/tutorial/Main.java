@@ -16,7 +16,7 @@ public class Main {
         System.out.println();
 
         // looping dengan properti dari array
-        System.out.println("looping dengan properti length");
+        System.out.println("looping dengan properti length");   
         for(int i = 0; i < arrayAngka.length; i++) {
             System.out.println("index ke-" + (i + 1) + " adalah = " + arrayAngka[i]);
         }
